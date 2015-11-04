@@ -1,0 +1,14 @@
+*.log
+*.gz
+*.toc
+*.aux
+*.idx
+*.ilg
+*.ind
+*.thm
+*.out
+*.bak
+*.ps
+*.swp
+*.pdf
+
